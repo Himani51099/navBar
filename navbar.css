@@ -5,7 +5,9 @@
 font-family: 'Tilt Prism', cursive;
 justify-content: space-around;
 }
-
+marquee{
+    background-color: skyblue;
+}
 
 .navcontainer{
     background-color: rgb(34, 30, 30);
