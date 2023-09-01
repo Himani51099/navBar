@@ -5,7 +5,7 @@
 font-family: 'Tilt Prism', cursive;
 justify-content: space-around;
 }
-marquee{
+.marquee{
     background-color: green;
 }
 
